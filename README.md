@@ -1,2 +1,0 @@
-# iagiri.github.io
-iAgiri
